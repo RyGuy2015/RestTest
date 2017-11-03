@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{2236D9B3-F536-429C-8597-F2D32279EE13}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestTest/ViewController.cs">
+    <Files>
+      <File FileName="RestTest/Main.storyboard" />
+      <File FileName="RestTest/CommunicationTest.cs" Line="86" Column="48" />
+      <File FileName="RestTest/ViewController.cs" Line="28" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RestTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B4DDA79A-28B1-4563-9AC6-1A840AFEC6C5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.RestTest>
+  <MultiItemStartupConfigurations />
+</Properties>

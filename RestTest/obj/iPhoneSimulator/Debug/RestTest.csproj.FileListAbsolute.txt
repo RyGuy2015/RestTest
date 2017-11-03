@@ -1,0 +1,9 @@
+/Users/ryaningram/Projects/RestTest/RestTest/bin/iPhoneSimulator/Debug/RestTest.exe
+/Users/ryaningram/Projects/RestTest/RestTest/bin/iPhoneSimulator/Debug/RestTest.pdb
+/Users/ryaningram/Projects/RestTest/RestTest/obj/iPhoneSimulator/Debug/RestTest.csproj.CoreCompileInputs.cache
+/Users/ryaningram/Projects/RestTest/RestTest/obj/iPhoneSimulator/Debug/RestTest.exe
+/Users/ryaningram/Projects/RestTest/RestTest/obj/iPhoneSimulator/Debug/RestTest.pdb
+/Users/ryaningram/Projects/RestTest/RestTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ryaningram/Projects/RestTest/RestTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/ryaningram/Projects/RestTest/RestTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/ryaningram/Projects/RestTest/RestTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
